@@ -26,6 +26,16 @@ Things you may want to cover:
 
 <h1>Run project</h1>
 
+Migrate Database
+
+- add local databse with the name "rail_project"
+
+```bash
+
+~ bin/rails db:migrate
+
+```
+
 ```bash
 
 ~ bin/rails server
