@@ -22,3 +22,28 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+<h1>Run project</h1>
+
+```bash
+
+~ bin/rails server
+
+```
+```bash
+
+=> Booting Puma
+=> Rails 7.0.3.1 application starting in development 
+=> Run `bin/rails server --help` for more startup options
+Puma starting in single mode...
+* Puma version: 5.6.4 (ruby 3.0.0-p0) ("Birdie's Version")
+*  Min threads: 5
+*  Max threads: 5
+*  Environment: development
+*          PID: 92982
+* Listening on http://127.0.0.1:3000
+* Listening on http://[::1]:3000
+Use Ctrl-C to stop
+
+```
